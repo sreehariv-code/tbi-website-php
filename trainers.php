@@ -2,13 +2,13 @@
 <html lang="en">
 
 <head>
-  <?php include 'head.php' ?>
+  <?php include 'components/head.php' ?>
 </head>
 
 <body>
 
   <!-- ======= Header ======= -->
-  <?php include 'header.php'; ?>
+  <?php include 'components/header.php'; ?>
   <!-- End Header -->
 
   <main id="main" data-aos="fade-in">
